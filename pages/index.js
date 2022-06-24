@@ -154,7 +154,7 @@ export default function Home() {
             chain condition!). So connect your wallet fren!
           </p>
           <p>
-            Make sure you're allowed to peek broo! Else first allow yourself to
+            Make sure you are allowed to peek broo! Else first allow yourself to
             peek then decrypt
           </p>
         </div>
